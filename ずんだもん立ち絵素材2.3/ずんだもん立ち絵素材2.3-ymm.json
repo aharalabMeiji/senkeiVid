@@ -1,0 +1,49 @@
+﻿{
+  "Presets": [],
+  "MouthAnimations": [
+    {
+      "Layers": [
+        "n58",
+        "n57",
+        "n56",
+        "n57",
+        "n58"
+      ]
+    }
+  ],
+  "EyeAnimations": [
+    {
+      "Layers": [
+        "n94",
+        "n86",
+        "n83",
+        "n86",
+        "n94"
+      ],
+      "Offset": 1.0,
+      "Interval": 5.0
+    },
+    {
+      "Layers": [
+        "n104",
+        "n86",
+        "n84",
+        "n86",
+        "n104"
+      ],
+      "Offset": 1.0,
+      "Interval": 5.0
+    },
+    {
+      "Layers": [
+        "n90",
+        "n86",
+        "n83",
+        "n86",
+        "n89"
+      ],
+      "Offset": 1.0,
+      "Interval": 5.0
+    }
+  ]
+}
