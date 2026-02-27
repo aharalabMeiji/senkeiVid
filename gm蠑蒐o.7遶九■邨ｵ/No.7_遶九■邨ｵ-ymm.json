@@ -1,0 +1,43 @@
+﻿{
+  "Presets": [],
+  "MouthAnimations": [
+    {
+      "Layers": [
+        "n37",
+        "n43",
+        "n35",
+        "n43",
+        "n37"
+      ]
+    },
+    {
+      "Layers": [
+        "n42",
+        "n43",
+        "n41",
+        "n43",
+        "n42"
+      ]
+    }
+  ],
+  "EyeAnimations": [
+    {
+      "Layers": [
+        "n17",
+        "n13",
+        "n17"
+      ],
+      "Offset": 1.0,
+      "Interval": 6.0
+    },
+    {
+      "Layers": [
+        "n24",
+        "n13",
+        "n24"
+      ],
+      "Offset": 1.0,
+      "Interval": 6.0
+    }
+  ]
+}
